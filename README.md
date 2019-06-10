@@ -1,8 +1,5 @@
-![](https://i.imgur.com/TlwEgUo.png)
-
-# Gatsby Starter Portfolio: Jodie
-
-A portfolio starter for [Gatsby](https://www.gatsbyjs.org/). The target audience are designers and photographers.
+Obinna's Starter Portfolio
+==========================
 
 [Demo Website](https://jodie.lekoarts.de)
 
